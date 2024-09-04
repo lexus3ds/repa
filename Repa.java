@@ -5,6 +5,6 @@ public class Repa {
 
     public Repa( )
     {
-        this.test = "1234";
+        this.test = "1234 5";
     }
 }
